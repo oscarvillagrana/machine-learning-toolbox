@@ -1,5 +1,5 @@
 # Machine Learning Toolbox
-I am initializing an 80 hour session in learning machine learning through some of San Francisco's community meetups. 
+An 80 hour session in machine learning through some of San Francisco's community meetups 
 
 # Advanced Spark and TensorFlow Meetup
 August 20th Webinar 
