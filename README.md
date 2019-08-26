@@ -26,7 +26,7 @@ August 20th Webinar
 - http://community.pipeline.ai
 
 # ML/DL Project Cluster @Holberton 
-August 27th will be a Project Cluster where attendees have time to work on projects.
+August 27th will be a Project Cluster where attendees have time to work on projects
 
 ### Tools
 
@@ -55,5 +55,5 @@ Used to run Docker Containers
 ### IBM Cloud
 Used to deploy and monitor machine learning models
 
-#### To Prepare
+### To Prepare
 Download & test Docker
