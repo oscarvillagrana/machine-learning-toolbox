@@ -41,6 +41,13 @@ August 27th will be a Project Cluster where attendees have time to work on proje
 # IBM Cloud Education Summit - workshops in AI/ML, Kubernetes & Serverless
 August 30th will be a full-day of hands-on training using AI, Machine Learning, Kubernetes and Serverless
 
+wifi: IBM Developer // ibmdevelopersf
+
+### Tools
+- Istio:             
+- Kube              ibm.gitlab.io/workshop/kube101/
+
+
 ### Apache OpenWhisk
 Create build and run serveless applications
 - cloud-native Node.js serverless app
